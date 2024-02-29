@@ -57,7 +57,7 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/adrianhajdin/pricewise.git
+git clone https://https://github.com/Thanushree2298/pricewise
 cd pricewise
 ```
 
